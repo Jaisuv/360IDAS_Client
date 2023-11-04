@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/用户/登录.png</file>
+        <file>images/用户/密码.png</file>
+        <file>images/用户/昵称.png</file>
+        <file>images/用户/刷新.png</file>
+        <file>images/用户/眼睛.png</file>
+        <file>images/用户/验证.png</file>
+        <file>images/用户/再输密码.png</file>
+        <file>images/用户/账号.png</file>
+        <file>images/用户/注册.png</file>
+        <file>images/用户/unvisible.png</file>
+        <file>images/用户/visible.png</file>
+        <file>images/用户/用户注销.png</file>
+        <file>VideoCover/cover1.png</file>
+        <file>VideoCover/cover2.png</file>
+        <file>images/bg.png</file>
+        <file>images/head.jpg</file>
+    </qresource>
+</RCC>
